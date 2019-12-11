@@ -1,3 +1,9 @@
+/*
+Author :: Moniba
+Problem id ::   NWERC 2016 B
+Problem name ::  British Menu
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
