@@ -8,7 +8,6 @@ Problem name :: Extend to Palindrome
 #include<bits/stdc++.h>
 
 using namespace std;
-using namespace __gnu_pbds;
 
 #define pb push_back
 #define ll long long
