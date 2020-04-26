@@ -66,16 +66,13 @@ int main(){
         }
 
         int res = 0;
-        for( int i = 0 ; i < 4 ; i ++ ){
-            for( int j = 0 ; j < 4 ; j ++ ){
-                for( int w = 0 ; w < q; w++ ){
-                    if( !found[ w ] && dfs( i, j, w, 0)){
-                        found[ w ] = true;
-                        res += point[min(8, (int)words[ w ].size())];
-                    }
-                }
+        for( int i = 0 ; i < 4 ; i ++ )
+        for( int j = 0 ; j < 4 ; j ++ )
+        for( int w = 0 ; w < q ; w ++ )
+            if( !found[ w ] && dfs( i, j, w, 0)){
+                found[ w ] = true;
+                res += point[min(8, (int)words[ w ].size())];
             }
-        }
         cout <<"Score for Boggle game #"<<cas++<<": "<< res << "\n";
 
     }
