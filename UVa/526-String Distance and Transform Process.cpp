@@ -17,7 +17,7 @@ int main(){
     
         if(cin.peek() == EOF)
             break;
-            
+        // Don't forget about empty strings
         getline(cin, a);
         getline(cin, b);
 
