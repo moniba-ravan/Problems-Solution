@@ -4,6 +4,7 @@ Author :: Moniba
 Problem id ::   UVA 526
 Problem name :: String Distance and Transform Process
 */
+#include<bits/stdc++.h>
 
 using namespace std;
 
