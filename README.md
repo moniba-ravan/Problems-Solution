@@ -13,7 +13,7 @@ During my bachelor's studies, I was actively involved in competitive programming
   🔗 [View my ICPC contest history](https://icpc.global/ICPCID/WFTQ331WWSF4)
 
 - Reached the **Top 2000 finalists** in the **Meta Hacker Cup 2020**, and received an official t-shirt
-- ![Meta Hacker Cup T-shirt](hacker-cup.jpg)
+- <img src="hacker-cup.jpg" alt="Meta Hacker Cup T-shirt" style="width:250px;">
 
 
 - Regular practice on Codeforces  
